@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Prgrammation_Code\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj": {}
+    "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj": {}
   },
   "projects": {
-    "F:\\Prgrammation_Code\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj": {
+    "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Prgrammation_Code\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj",
+        "projectUniqueName": "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj",
         "projectName": "SDK_Laboratoire1_5",
-        "projectPath": "F:\\Prgrammation_Code\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj",
+        "projectPath": "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj",
         "packagesPath": "C:\\Users\\misse\\.nuget\\packages\\",
-        "outputPath": "F:\\Prgrammation_Code\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\obj\\",
+        "outputPath": "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
