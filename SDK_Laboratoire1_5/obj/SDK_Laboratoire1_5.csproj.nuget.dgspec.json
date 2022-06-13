@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj": {}
+    "C:\\sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj": {}
   },
   "projects": {
-    "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj": {
+    "C:\\sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj",
+        "projectUniqueName": "C:\\sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj",
         "projectName": "SDK_Laboratoire1_5",
-        "projectPath": "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj",
-        "packagesPath": "C:\\Users\\misse\\.nuget\\packages\\",
-        "outputPath": "C:\\Sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\obj\\",
+        "projectPath": "C:\\sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5.csproj",
+        "packagesPath": "C:\\Users\\nik_m\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\SDK_Laboratoire1_5\\SDK_Laboratoire1_5\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\misse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nik_m\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
