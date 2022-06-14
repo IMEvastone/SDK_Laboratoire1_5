@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 ﻿using LibrairieConversionNote;
 
 class Program
+=======
+﻿class Program
+    //Good retry
+>>>>>>> 6bb5e8ac47cc078be53595228880cae29067c75d
 {
     static void Main(string[] args)
     {
