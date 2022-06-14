@@ -1,0 +1,12 @@
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\bin\Debug\net6.0\LibrairieConversionNote.deps.json
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\bin\Debug\net6.0\LibrairieConversionNote.dll
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\bin\Debug\net6.0\LibrairieConversionNote.pdb
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.AssemblyReference.cache
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfoInputs.cache
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfo.cs
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.dll
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
+C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll

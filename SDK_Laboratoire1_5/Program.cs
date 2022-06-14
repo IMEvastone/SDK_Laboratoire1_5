@@ -1,9 +1,11 @@
-﻿class Program
+﻿using LibrairieConversionNote;
+
+class Program
 {
     static void Main(string[] args)
     {
         int row = 0;
-        string noteAnglais;
+        ConversionAlphabetiqueToNote conv = new ConversionAlphabetiqueToNote();
 
         do
         {
@@ -12,44 +14,26 @@
 
             string? input = Console.ReadLine();
             if (string.IsNullOrEmpty(input)) break;
-            Console.WriteLine($"Note En Francais: {input}");
-
-            if (input == "La")
-                noteAnglais = "A";
-            else if (input == "Si")
-                noteAnglais = "B";
-            else if (input == "Do")
-                noteAnglais = "C";
-            else if (input == "Re")
-                noteAnglais = "D";
-            else if (input == "Mi")
-                noteAnglais = "E";
-            else if (input == "Fa")
-                noteAnglais = "F";
-            else if (input == "Sol")
-                noteAnglais = "G";
-            else
-                noteAnglais = "Z";
-
-            Console.WriteLine($"Note En Anglais: {noteAnglais}");
-            //Console.WriteLine("Note En Anglais" +
-            //     $"{(input.StartsWithUpper() ? "Ouaip" : "Nan")}");
+            Console.WriteLine($"Note en anglais: {input}");
+            Console.WriteLine($"Note en francais: {conv.Transformer(input)}");
             Console.WriteLine();
             row += 4;
         } while (true);
         return;
 
-        // Declare a ResetConsole local method
+        // Reset locale tsé yo.
         void ResetConsole()
         {
             if (row > 0)
             {
-                Console.WriteLine("Press any key to continue... mais ou est le Anykey!!?");
+                Console.WriteLine("Press any key to continue... Mais ou est le Anykey!!?");
                 Console.ReadKey();
             }
             Console.Clear();
-            Console.WriteLine($"{Environment.NewLine}Appuie <Enter> pour sortir, sinon une note en francais et <Enter>:{Environment.NewLine}");
+            Console.WriteLine($"{Environment.NewLine}Appuie <Enter> pour sortir, sinon, entre une note et appuie <Enter>:{Environment.NewLine}");
             row = 3;
         }
     }
+
+
 }

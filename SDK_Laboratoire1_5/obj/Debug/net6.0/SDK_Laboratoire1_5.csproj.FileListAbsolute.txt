@@ -13,3 +13,6 @@ C:\sources\SDK_Laboratoire1_5\SDK_Laboratoire1_5\obj\Debug\net6.0\refint\SDK_Lab
 C:\sources\SDK_Laboratoire1_5\SDK_Laboratoire1_5\obj\Debug\net6.0\SDK_Laboratoire1_5.pdb
 C:\sources\SDK_Laboratoire1_5\SDK_Laboratoire1_5\obj\Debug\net6.0\SDK_Laboratoire1_5.genruntimeconfig.cache
 C:\sources\SDK_Laboratoire1_5\SDK_Laboratoire1_5\obj\Debug\net6.0\ref\SDK_Laboratoire1_5.dll
+C:\sources\SDK_Laboratoire1_5\SDK_Laboratoire1_5\bin\Debug\net6.0\LibrairieConversionNote.dll
+C:\sources\SDK_Laboratoire1_5\SDK_Laboratoire1_5\bin\Debug\net6.0\LibrairieConversionNote.pdb
+C:\sources\SDK_Laboratoire1_5\SDK_Laboratoire1_5\obj\Debug\net6.0\SDK_Laboratoire1_5.csproj.CopyComplete
