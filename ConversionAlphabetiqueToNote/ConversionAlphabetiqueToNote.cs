@@ -1,4 +1,5 @@
-﻿namespace LibrairieConversionNote
+﻿// Tout ça c'est du beau travail! - EO
+namespace LibrairieConversionNote
 {
 
     public class ConversionAlphabetiqueToNote

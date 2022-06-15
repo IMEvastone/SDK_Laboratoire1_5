@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50a9e320-dbcb-425e-96b0-687f77c9c3c0": {
+      "ProjectGuid": "50a9e320-dbcb-425e-96b0-687f77c9c3c0",
+      "DisplayName": "LibrairieConversionNote",
+      "ColorIndex": 0
+    },
+    "cfdb86ce-2dd3-498e-b59b-cdaf796c5693": {
+      "ProjectGuid": "cfdb86ce-2dd3-498e-b59b-cdaf796c5693",
+      "DisplayName": "SDK_Laboratoire1_5",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

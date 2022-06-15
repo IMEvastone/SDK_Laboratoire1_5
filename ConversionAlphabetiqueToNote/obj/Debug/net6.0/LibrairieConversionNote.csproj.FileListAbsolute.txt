@@ -10,3 +10,15 @@ C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\Libr
 C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
 C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
 C:\sources\SDK_Laboratoire1_5\ConversionAlphabetiqueToNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\bin\Debug\net6.0\LibrairieConversionNote.deps.json
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\bin\Debug\net6.0\LibrairieConversionNote.dll
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\bin\Debug\net6.0\ref\LibrairieConversionNote.dll
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\bin\Debug\net6.0\LibrairieConversionNote.pdb
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.AssemblyReference.cache
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfoInputs.cache
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfo.cs
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.dll
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll
+D:\Onedrive\_InstitutGrasset\_NTL1K\SDK\Lab_01\ConversionAlphabetiqueToNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
