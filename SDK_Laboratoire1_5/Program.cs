@@ -1,3 +1,4 @@
+// Est-ce que tu lis ce texte?
 using LibrairieConversionNote;
 
 class Program
